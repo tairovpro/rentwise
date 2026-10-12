@@ -2,7 +2,7 @@
 
 An interactive rent-vs-buy simulation that runs entirely in the browser — no install, no backend.
 
-**Live demo:** https://YOUR-USERNAME.github.io/rentwise/
+**Live demo:** https://tairovpro.github.io/rentwise/
 
 ## Run it locally
 
